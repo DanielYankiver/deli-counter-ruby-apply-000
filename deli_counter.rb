@@ -15,6 +15,7 @@ def line(current_line)
 end
 
 #test
+line([])
 line(["Daniel", "Erin", "Susan"])
 
 
